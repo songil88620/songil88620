@@ -8,10 +8,10 @@ Also I have 6 years of Embedded system development experience as well from unive
 1. Web development::
 You have a project and you need a Web Developer or Designer that can work on your project. And here's the kicker, your project may need a specific skillset like:
 - LAMP Stack (PHP, MySQL, Apache or NGINX)
-- Front End (HTML, CSS, JS, ReactJS, JQuery)
+- Front End (HTML, CSS, JS, Reactjs, JQuery, Vuejs)
 - Node.js || Laravel || Golang || Django Backend
 - WordPress Full stack
-- DB:: MySQL, MongoDB, Maria DB, SQLight
+- DB:: MySQL, MongoDB, Maria DB, SQLight, Firebase
 Most times you find a person who specializes in one or the other and then you need to find a second developer to get your project done.
 But... you're in luck because you just found a one-stop-shop!
 I've worked on everything from Small Web Apps for businesses to Enterprise Sized Web Platforms.
