@@ -11,7 +11,7 @@ You have a project and you need a Web Developer or Designer that can work on you
 - Front End (HTML, CSS, JS, ReactJS, JQuery)
 - Node.js || Laravel || Golang || Django Backend
 - WordPress Full stack
-- DB:: MySQL, MongoDB, Postgres BD, Maria DB, SQLight
+- DB:: MySQL, MongoDB, Maria DB, SQLight
 Most times you find a person who specializes in one or the other and then you need to find a second developer to get your project done.
 But... you're in luck because you just found a one-stop-shop!
 I've worked on everything from Small Web Apps for businesses to Enterprise Sized Web Platforms.
@@ -20,7 +20,7 @@ Also, I specialize in WordPress Web Design, Development, Custom Premium Themes, 
 2. Mobile app development::
 - iOS (Flutter/ Swift) | Android (Flutter /JAVA / Kotlin)
 - OOP, FRP, Protocol Oriented Programming, Reactive Programming
-- Architecture Patterns: MVC, MVP, MVVM, Viper, Clean Swift, RxSwift, RxJava, GAA
+- Architecture Patterns: MVC, MVP, MVVM
 - 3rd party frameworks for iOS and Android
 - Understanding & ability to leverage iOS and Android features
 - JSON, REST API
