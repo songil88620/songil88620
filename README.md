@@ -7,12 +7,11 @@ Also I have 6 years of Embedded system development experience as well from unive
 
 1. Web development::
 You have a project and you need a Web Developer or Designer that can work on your project. And here's the kicker, your project may need a specific skillset like:
-- LAMP Stack (PHP, MySQL, Apache or NGINX)
-- Front End (HTML, CSS, JS, React, JQuery, Vue)
-- Node || Laravel || Golang || Django Backend & API
+- Front End (HTML, CSS, React.js, Vue.js)
+- Node || Laravel || Golang || Django Backend & API || AWS Lambda
 - WordPress Full stack
-- Block Chain(Solidity, truffle, KYC, NFT, Dapp)
-- DB:: MySQL, MongoDB, SQLite, Firebase
+- Block Chain(Solidity, truffle, Solana, Anchor, KYC, NFT, Dapp, DeFi)
+- DB:: MySQL, MongoDB, SQLite, Firebase, DynamoDB
 Most times you find a person who specializes in one or the other and then you need to find a second developer to get your project done.
 But... you're in luck because you just found a one-stop-shop!
 I've worked on everything from Small Web Apps for businesses to Enterprise Sized Web Platforms.
