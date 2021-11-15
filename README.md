@@ -2,7 +2,7 @@
 - 👀 I’m interested in making something for the world.
 - 🌱 I’m currently working and learing on...   
 
-I'm a Freelancer with over 5 Years of Web and Mobile app Development Experience.
+I'm a Freelancer with over 7 Years of Web and Mobile app Development Experience.
 Also I have 6 years of Embedded system development experience as well from university hood.
 
 1. Web development::
