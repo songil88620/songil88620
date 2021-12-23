@@ -10,7 +10,7 @@ You have a project and you need a Web Developer or Designer that can work on you
 - Front End (React.js, Next.js, Vue.js)
 - Node || Laravel || Golang || Django Backend & API || AWS Lambda
 - WordPress Full stack
-- Block Chain(Solidity, Solana : KYC, NFT, Dapp, DeFi)
+- Block Chain(Solidity, Rust : KYC, NFT, Dapp, DeFi)
 - DB:: MySQL, MongoDB, SQLite, Firebase, DynamoDB
 Most times you find a person who specializes in one or the other and then you need to find a second developer to get your project done.
 But... you're in luck because you just found a one-stop-shop!
@@ -32,13 +32,6 @@ Also, I specialize in WordPress Web Design, Development, Custom Premium Themes, 
 - iOS & Android SDK
 - iBeacons / Bluetooth / IoT Mobile Apps
 - Geolocation & Maps
-
-3. Embedded system development::
-
-Electrical engineer with extensive experience with providing turnkey solution. I have 5+ years’ experience of providing solution in the areas of hardware design, firmware development, software development, and system integration. My firmware experience includes micro-controller platforms such as Atmel (AVR8,32), Microchip, and numerous ARM based controllers. I'm also very well versed with Multi-Threaded environments (RTOS).
-Protocol experience includes, I2C/TWI, SPI, UART/USART, USB, Single-Wire, One-Wire, Ethernet (TCP/IP,SSL), and IEEE 802.15.4 wireless
-
-Also I have a skills in mechanical design by using SolidWorks. So that you can do all things for your new product design on my one hand.
 
 📫 How to reach me ...
 <!---
