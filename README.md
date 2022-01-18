@@ -33,7 +33,7 @@ Also, I specialize in WordPress Web Design, Development, Custom Premium Themes, 
 - iBeacons / Bluetooth / IoT Mobile Apps
 - Geolocation & Maps
 
-📫 How to reach me ...
+📫 How to reach me ...<br/>
 email: songil88620@gmail.com, <br/>
 discord: song#3281,  <br/>
 TG: @BCDeveloper,  <br/>
