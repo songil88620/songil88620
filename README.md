@@ -34,9 +34,9 @@ Also, I specialize in WordPress Web Design, Development, Custom Premium Themes, 
 - Geolocation & Maps
 
 📫 How to reach me ...
-email: songil88620@gmail.com
-discord: song#3281
-TG: @BCDeveloper
+email: songil88620@gmail.com, <br/>
+discord: song#3281,  <br/>
+TG: @BCDeveloper,  <br/>
 skype: live:.cid.8ce56414580cadcb
 <!---
 songil88620/songil88620 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
