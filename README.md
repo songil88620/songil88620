@@ -2,8 +2,7 @@
 - 👀 I’m interested in making something for the world.
 - 🌱 I’m currently working and learing on...   
 
-I'm a Freelancer with over 7 Years of Web and Mobile app Development Experience.
-Also I have 6 years of Embedded system development experience as well from university hood.
+I'm a Freelancer with over 7 Years of Development Experience. 
 
 1. Web development::
 You have a project and you need a Web Developer or Designer that can work on your project. And here's the kicker, your project may need a specific skillset like:
