@@ -7,9 +7,9 @@ I'm a Freelancer with over 7 Years of Development Experience.
 1. Web development::
 You have a project and you need a Web Developer or Designer that can work on your project. And here's the kicker, your project may need a specific skillset like:
 - Front End (React.js, Next.js, Vue.js)
-- Node || Laravel || Golang || Django Backend & API || AWS Lambda
+- Node(Nest.js) || PHP(Laravel) || Go(Jin) || Python(Django) & API || AWS Lambda
 - WordPress Full stack
-- Block Chain(Solidity, Rust : KYC, NFT, Dapp, DeFi)
+- Block Chain(Solidity, Rust, NFT, Dapp, DeFi)
 - DB:: MySQL, MongoDB, SQLite, Firebase, DynamoDB
 Most times you find a person who specializes in one or the other and then you need to find a second developer to get your project done.
 But... you're in luck because you just found a one-stop-shop!
