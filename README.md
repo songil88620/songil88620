@@ -37,7 +37,7 @@ Also, I specialize in WordPress Web Design, Development, Custom Premium Themes, 
 email: songil88620@gmail.com, <br/>
 discord: song#3281,  <br/>
 TG: @Dev_Jenny_Song,  <br/>
-skype: live:.cid.8ce56414580cadcb
+skype: live:.cid.2f9d5bc1bb379af5
 <!---
 songil88620/songil88620 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
