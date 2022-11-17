@@ -45,13 +45,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<div style="text-align:center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=songil88620&show_icons=true&locale=en&layout=compact" alt="songil88620" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=songil88620&show_icons=true&locale=en" alt="songil88620" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=songil88620&" alt="songil88620" /></p>
-</div>
 
 
 
