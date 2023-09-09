@@ -12,6 +12,7 @@ You have a project and you need a Web Developer or Designer that can work on you
 - WordPress Full stack
 - Block Chain(Solidity, Rust, NFT, Dapp, DeFi)
 - DB:: MySQL, MongoDB, SQLite, Firebase, DynamoDB
+  
 Most times you find a person who specializes in one or the other and then you need to find a second developer to get your project done.
 But... you're in luck because you just found a one-stop-shop!
 I've worked on everything from Small Web Apps for businesses to Enterprise Sized Web Platforms.
