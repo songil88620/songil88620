@@ -11,7 +11,7 @@ You have a project and you need a Web Developer or Designer that can work on you
 - Dapp(Typescript, web3.js, ether.js)
 - WordPress Full stack
 - Block Chain(Solidity, Rust) for NFT, DEX, DeFi
-- DB:: MySQL, MongoDB, SQLite, Firebase, DynamoDB
+- MySQL, MongoDB, SQLite, Firebase, DynamoDB
 
 2. Mobile app development::
 - iOS (Flutter/ Swift) | Android (Flutter /JAVA / Kotlin)
