@@ -7,16 +7,11 @@ I'm a Freelancer with over 7 Years of Development Experience.
 1. Web development::
 You have a project and you need a Web Developer or Designer that can work on your project. And here's the kicker, your project may need a specific skillset like:
 - Front End (React.js, Next.js, Vue.js)
-- Node(NestJS) || PHP(Laravel) || Go(Jin) || Python(Django) & API || AWS Lambda
+- Node(NestJS, Express.js) || PHP(Laravel) || Go(Jin) || Python(Django) & API || AWS Lambda
 - Dapp(Typescript, web3.js, ether.js)
 - WordPress Full stack
-- Block Chain(Solidity, Rust, NFT, Dapp, DeFi)
+- Block Chain(Solidity, Rust) for NFT, DEX, DeFi
 - DB:: MySQL, MongoDB, SQLite, Firebase, DynamoDB
-  
-Most times you find a person who specializes in one or the other and then you need to find a second developer to get your project done.
-But... you're in luck because you just found a one-stop-shop!
-I've worked on everything from Small Web Apps for businesses to Enterprise Sized Web Platforms.
-Also, I specialize in WordPress Web Design, Development, Custom Premium Themes, ECommerce, and WooCommerce. And because I have a diverse set of skills, I can tackle any project you have.
 
 2. Mobile app development::
 - iOS (Flutter/ Swift) | Android (Flutter /JAVA / Kotlin)
