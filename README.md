@@ -4,8 +4,7 @@
 
 I'm a Freelancer with over 7 Years of Development Experience. 
 
-1. Web development::
-You have a project and you need a Web Developer or Designer that can work on your project. And here's the kicker, your project may need a specific skillset like:
+1. Web development:: 
 - Front End (React.js, Next.js, Vue.js)
 - Node(NestJS, Express.js) || PHP(Laravel) || Go(Jin) || Python(Django) & API || AWS Lambda
 - Dapp(Typescript, web3.js, ethers.js)
