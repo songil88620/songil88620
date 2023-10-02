@@ -14,7 +14,7 @@ You have a project and you need a Web Developer or Designer that can work on you
 - MySQL, MongoDB, SQLite, Firebase, DynamoDB
 
 2. Mobile app development::
-- iOS (Flutter/ Swift) | Android (Flutter /JAVA / Kotlin)
+- iOS (Flutter/ React Native/ Swift) | Android (Flutter / React Native/ JAVA / Kotlin)
 - OOP, FRP, Protocol Oriented Programming, Reactive Programming
 - Architecture Patterns: MVC, MVP, MVVM
 - 3rd party frameworks for iOS and Android
