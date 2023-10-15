@@ -11,6 +11,7 @@ I'm a Freelancer with over 7 Years of Development Experience.
 - WordPress Full stack
 - Block Chain(Solidity, Rust) for NFT, DEX, DeFi
 - MySQL, MongoDB, SQLite, Firebase, DynamoDB
+- GPT API, LLM, TensorFlow, PyTorch
 
 2. Mobile app development::
 - iOS (Flutter/ React Native/ Swift) | Android (Flutter / React Native/ JAVA / Kotlin)
