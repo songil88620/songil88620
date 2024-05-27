@@ -2,14 +2,14 @@
 - 👀 I’m interested in making something for the world.
 - 🌱 I’m currently working and learing on...   
 
-I'm a Freelancer with over 7 Years of Development Experience. 
+I'm a software developer who has over 10 Years of experience. 
 
-1. Web development:: 
+1. Web2,3 development:: 
 - Front End (React.js, Next.js, Vue.js)
-- Node(NestJS, Express.js) || PHP(Laravel) || Go(Jin) || Python(Django) & API || AWS Lambda
-- Dapp(Typescript, web3.js, ethers.js)
+- Node(Nest.js, Express.js) || PHP(Laravel) || Go(Jin) || Python(Django) & API || AWS Lambda
+- Dapp(Typescript, web3.js, ethers.js, solana/web3.js)
 - WordPress Full stack
-- Block Chain(Solidity, Rust) for NFT, DEX, DeFi
+- Block Chain(Solidity, Rust) for NFT, DEX, DeFi, Trading Bot
 - MySQL, MongoDB, SQLite, Firebase, DynamoDB
 - GPT API, LLM, TensorFlow, PyTorch
 
