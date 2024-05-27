@@ -2,7 +2,7 @@
 - 👀 I’m interested in making something for the world.
 - 🌱 I’m currently working and learing on...   
 
-I'm a software developer who has over 10 Years of experience. 
+I'm a software developer who has over 10 years of experience. 
 
 1. Web2,3 development:: 
 - Front End (React.js, Next.js, Vue.js)
