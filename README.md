@@ -14,16 +14,10 @@ I'm a software developer who has over 10 years of experience.
 - GPT API, LLM, TensorFlow, PyTorch
 
 2. Mobile app development::
-- iOS (Flutter/ React Native/ Swift) | Android (Flutter / React Native/ JAVA / Kotlin)
-- OOP, FRP, Protocol Oriented Programming, Reactive Programming
-- Architecture Patterns: MVC, MVP, MVVM
-- 3rd party frameworks for iOS and Android
-- Understanding & ability to leverage iOS and Android features
-- JSON, REST API
+- iOS (Flutter/ React Native ) | Android (Flutter / React Native )  
 - Push notifications
 - Complex animations & responsive UI
-- Build chat applications
-- Git (Github / Gitlab / Bitbucket)
+- Build chat applications 
 - CloudKit, Firebase, Realm, CoreData, SQLite
 - iOS & Android SDK
 - iBeacons / Bluetooth / IoT Mobile Apps
